@@ -1,3 +1,5 @@
+package exo1;
+
 public enum Saison {
 	
 	PRINTEMPS ("Printemps", 1),
